@@ -1,0 +1,67 @@
+img{
+    border-radius: 40px;
+    position: relative;
+    left: 575px;
+    top: 20px;
+}
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color:mintcream;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: -10px;
+}
+
+h3{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    top: -20px;
+}
+
+a{
+    position: relative;
+    top: -20px;
+}
+
+.imag:hover{
+    color: rgb(255, 0, 0); 
+    background: rgb(64, 255, 230); 
+    box-shadow: 0 0 100px rgba(65, 119, 235, 0.822); 
+}
+
+.spot:hover{
+    color: rgb(255, 0, 0); 
+    background: rgba(65, 119, 235, 0.140); 
+    box-shadow: 0 0 100px rgba(65, 235, 93, 0.966); 
+}
+
+.inst:hover{
+    color: rgb(255, 0, 0); 
+    background: rgba(255, 208, 0, 0.140); 
+    box-shadow: 0 0 100px rgba(255, 208, 0, 0.822);
+}
+
+
+.twt:hover{
+    color: rgb(255, 0, 0); 
+    background: rgba(21, 94, 252, 0.140); 
+    box-shadow: 0 0 100px rgba(21, 94, 252, 0.822); 
+}
+
+.mail:hover{
+    color: rgb(255, 0, 0); 
+    background: rgba(231, 0, 0, 0.120); 
+    box-shadow: 0 0 100px rgba(231, 0, 0, 0.87); 
+}
+
+
+
+
+
