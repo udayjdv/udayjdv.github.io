@@ -4,3 +4,4 @@ Watched these lectures:
 https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
 
 Edit: I just realized the website is not mobile friendly! Will optimize it for mobile later... (preparing for my boards lol)
+Edit 2: This is a major fck up. There are a billion issues with the site. Will update it post-boards.
